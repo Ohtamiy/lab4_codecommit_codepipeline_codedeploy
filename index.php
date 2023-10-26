@@ -6,4 +6,5 @@
     print_r($xmlData);
     echo '</pre>';
 	echo 'End';
+	echo 'test to test CodePipeline'
 ?>
