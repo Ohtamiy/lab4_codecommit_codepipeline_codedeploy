@@ -5,4 +5,5 @@
     echo '<pre>';
     print_r($xmlData);
     echo '</pre>';
+	echo 'End';
 ?>
